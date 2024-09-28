@@ -58,7 +58,6 @@ Riphah International University, Islamabad (March 2023 – Present)
 
 ## SKILLS  
 
-- **Computer Science**  
 - **Data Analysis**  
 - **Data Visualization**  
 - **Problem-solving**  
