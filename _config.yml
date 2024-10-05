@@ -1,2 +1,8 @@
-title: Nabiha Nasir
-theme: jekyll-theme-midnight
+# Add Minimal Mistakes theme
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
+# Ensure jekyll-include-cache is listed in plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-include-cache
