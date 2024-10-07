@@ -9,26 +9,6 @@ Aspiring ML Engineer focused on building skills through certifications and hands
 
 ---
 
-## LICENSES AND CERTIFICATIONS  
-
-- **Data Science Fundamentals with Python and SQL** - IBM Specialization (September 2024)  
-  This 5-course specialization includes:  
-  1. Statistics for Data Science with Python – grade received: 93.04%  
-  2. Tools for Data Science – grade received: 84.83%  
-  3. Python Project for Data Science – grade received: 83.33%  
-  4. Databases and SQL for Data Science with Python – grade received: 96.50%  
-  5. Python for Data Science, AI & Development – grade received: 92.20%
-
-- **Exploratory Data Analysis for Machine Learning** - IBM Course (August 2023)  
-  This first course in IBM Machine Learning Specialization includes:  
-  - Retrieve data from multiple data sources: SQL, APIs, Cloud  
-  - Describe and use common feature selection and feature engineering techniques  
-  - Handle categorical and ordinal features, as well as missing values  
-  - Use a variety of techniques for detecting and dealing with outliers  
-  - Articulate why feature scaling is important and use a variety of scaling techniques  
-
----
-
 ## PROJECTS  
 
 ### 1. House Sales Price Prediction in King County, USA  
@@ -69,20 +49,5 @@ Artificial Intelligence Community Of Pakistan (January 2024 – March 2024)
 **Undergraduate, Software Engineering**  
 Riphah International University, Islamabad (March 2023 – Present)  
 - **CGPA:** 3.97
-
----
-
-## SKILLS  
-
-- **Data Analysis**  
-- **Data Visualization**  
-- **Problem-solving**  
-- **Python Programming**  
-- **MySQL**  
-- **SQLite**  
-- **Pandas**  
-- **Seaborn**  
-- **Matplotlib**  
-- **Plotly**
 
 ---
